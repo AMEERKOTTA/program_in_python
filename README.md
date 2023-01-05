@@ -12,3 +12,5 @@ In this masterclass there are detailed explanations about basic python programmi
 10. Section 10 : 
 11. Section 11 :
 12. Section 12 : 
+13. Section 13 :
+14. Section 14 :

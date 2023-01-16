@@ -15,3 +15,4 @@ In this masterclass there are detailed explanations about basic python programmi
 13. Section 13 :
 14. Section 14 :
 15. Section 15 :
+16. Section 16 :

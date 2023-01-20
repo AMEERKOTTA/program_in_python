@@ -12,7 +12,7 @@ In this masterclass there are detailed explanations about basic python programmi
 10. **Section 10 : Object Oriented Programming.**
 11. **Section 11 :**
 12. **Section 12 :**
-13. Section 13 :
+13. **Section 13 :**
 14. Section 14 :
 15. Section 15 :
 16. Section 16 :

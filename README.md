@@ -10,7 +10,7 @@ In this masterclass there are detailed explanations about basic python programmi
 8. **Section 8 : Reading and Writing files in Python**
 9. **Section 9 : Modules and Functions in Python**
 10. **Section 10 : Object Oriented Programming.**
-11. **Section 11 :**
+11. **Section 11 :Using Databases in Python**
 12. **Section 12 :**
 13. **Section 13 :**
 14. **Section 14 :**

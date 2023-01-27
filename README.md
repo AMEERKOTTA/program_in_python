@@ -15,6 +15,8 @@ In this masterclass there are detailed explanations about basic python programmi
       + Setters and Getters.
       + Private Member Variables.
       + Public Member Variables.
+      + Inheritance.
+      + Encapsulation.
 11. **Section 11 : Using Databases in Python**
 12. **Section 12 :**
 13. **Section 13 :**

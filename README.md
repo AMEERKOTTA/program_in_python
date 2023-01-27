@@ -11,6 +11,10 @@ In this masterclass there are detailed explanations about basic python programmi
 9. **Section 9 : Modules and Functions in Python**
 10. **Section 10 : Object Oriented Programming.**
       + Introduction
+      + Constructors.
+      + Setters and Getters.
+      + Private Member Variables.
+      + Public Member Variables.
 11. **Section 11 : Using Databases in Python**
 12. **Section 12 :**
 13. **Section 13 :**
